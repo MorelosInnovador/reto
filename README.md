@@ -12,17 +12,17 @@ Crear una plataforma (app/web) que implemente una visión propia del concepto as
 5. Realizar el desarrollo del concepto dentro del tiempo acordado por todos los equipos.
 6. Presentar el proyecto.
 
-## Aspectos a evaluar (generales)
-- Planificación del trabajo
-- Asignación de carga de trabajo y distribución de responsabilidades
-- Aplicación del feedback recibido en las iteraciones
-- Diversidad de roles en el equipo
-- Documentación y razonamiento para toma de decisiones.
-- Ejecución del concepto.
+## Aspectos a evaluar (generales) 30%
+- Planificación del trabajo 10%
+- Asignación de carga de trabajo y distribución de responsabilidades 3%
+- Aplicación del feedback recibido en las iteraciones 5%
+- Diversidad de roles en el equipo 3%
+- Documentación y razonamiento para toma de decisiones. 5%
+- Ejecución del concepto. 4%
 
-## Aspectos a evaluar (tecnicos)
-- Tecnologías utilizadas
-- Organización y estructura del código
-- Fidelidad de las funciones implementadas (contra las planeadas)
-- Fidelidad del UI / vs el diseño 
-- Documentación del proyecto
+## Aspectos a evaluar (tecnicos) 70%
+- Tecnologías utilizadas 10%
+- Organización y estructura del código 10%
+- Fidelidad de las funciones implementadas (contra las planeadas) 20%
+- Fidelidad del UI / vs el diseño 20%
+- Documentación del proyecto 10%
